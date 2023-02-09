@@ -1,0 +1,144 @@
+/* banner */
+.first-section {
+    background-image: url(images/banner/banner3.png);
+    width: 1330px;
+    height: 810px;
+    text-align: right;
+}
+
+.banner-line {
+    text-align: right;
+    font-size: 60px;
+    padding-top: 170px;
+    padding-right: 100px;
+    color: white;
+}
+
+.second-line {
+    text-align: right;
+    padding-right: 100px;
+    color: white;
+}
+
+.banner-button {
+    width: 130px;
+    height: 55px;
+    color: rgb(14, 9, 9);
+    background-color: white;
+    border-radius: 7px;
+    margin-right: 95px;
+    margin-top: 30px;
+}
+
+/* banner end */
+
+/* information banner */
+.information-part {
+    display: flex;
+    margin-top: 150px;
+}
+
+.information-line {
+    font-size: 35px;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+
+.information-second {
+    padding-left: 200px;
+}
+
+.banner-2-line {
+    font-size: smaller;
+    padding-left: 200px;
+}
+
+/* information banner end */
+
+/* My plan */
+.plan-part {
+    display: flex;
+    text-align: center;
+
+}
+
+.plan-photo {
+    width: 120px;
+}
+
+.plan-banner {
+    margin-left: 160px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+#plan-header {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.plan-p {
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+}
+
+/* My plan end */
+
+/* Positive mind */
+.positive-photo {
+    background: linear-gradient(to right, rgba(0, 103, 247, 0.6), rgba(255, 255, 255, 0.2)), url(images/watch.png);
+    background-repeat: no-repeat;
+    height: 46vh;
+    margin: 50px 100px;
+    padding: 0 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 40px;
+}
+
+#call-now {
+    background-color: rgb(255, 255, 255);
+    font-size: 25px;
+    color: rgb(2, 109, 217);
+    border-radius: 5px;
+    border-color: rgb(2, 109, 217);
+}
+
+/* Positive mind end */
+
+/* footer */
+.footer-section-1 {
+    color: white;
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-bottom: 80px;
+    padding-right: 400px;
+}
+
+.future-line {
+    font-size: 40px;
+}
+
+.footer-section-2 {
+    padding-top: 80px;
+}
+
+#input-feild {
+    width: 250px;
+    height: 30px;
+    margin-bottom: 20px;
+    background-color: black;
+    border-color: white;
+}
+
+.button-field {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+}
+
+/* footer end */
